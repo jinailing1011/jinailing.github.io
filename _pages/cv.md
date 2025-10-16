@@ -23,7 +23,7 @@ Environmental health; Indoor/Outdoor airpollution; GIS; Expsoure/Health risk ass
 Work experience
 ======
 University of Connecticut
-* Fall 2025: UNIV 1800. First Year Experience University Learning Skills instructor
+* Fall 2025: Instructor, UNIV 1800: First Year Experience – University Learning Skills
     
 * Fall 2022-Fall 2025: Teaching Assistant
     
