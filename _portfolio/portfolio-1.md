@@ -8,12 +8,4 @@ Traditional place-based measures of the community food environment may misrepres
 
 <img width="603" height="618" alt="image" src="https://github.com/user-attachments/assets/f645f78c-b37e-43cb-b508-f66aef7e352b" />
 
-Restaurant-visit patterns in the Greater Hartford region. (a) shows overall restaurant
-visit patterns in the Greater Hartford region, and (b) zooms into East Hartford, West Hartford, and
- Hartford. Each line connects a restaurant to a census tract. Line thickness indicates the number of
- Figure 2. Restaurant-visit patterns in the Greater Hartford region. (a) shows overall restaurant-visit 
-patterns in the Greater Hartford region, and (b) zooms into East Hartford, West Hartford, and Hart
-ford. Each line connects a restaurant to a census tract. Line thickness indicates the number of visits; 
-line color indicates the percentile-ranking of SVI for the census tract where the restaurant is located 
-(darker means more socially vulnerable). Only relations with more than 41 visits (top 25% percen
-tile) are included in the figure. 
+Restaurant-visit patterns in the Greater Hartford region. (a) shows overall restaurant-visit patterns in the Greater Hartford region, and (b) zooms into East Hartford, West Hartford, and Hartford. Each line connects a restaurant to a census tract. Line thickness indicates the number of visits; line color indicates the percentile-ranking of SVI for the census tract where the restaurant is located (darker means more socially vulnerable). Only relations with more than 41 visits (top 25% percentile) are included in the figure. 
