@@ -16,6 +16,10 @@ Education
 * M.A. in Geography, Binghamton University, SUNY, 2018-2021
 * B.S. in Ecology, Minzu University of China, 2014-2018
 
+Research interests
+======
+Environmental health; Indoor/Outdoor airpollution; GIS; Expsoure/Health risk assessment
+
 Work experience
 ======
 University of Connecticut
