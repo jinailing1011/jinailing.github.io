@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #""
   location         : "Storrs, CT"
-  employer         : "Department of Geography, Sustainability, Community, and Urban Studies, University of Connecticut"
+  employer         : "University of Connecticut"
   uri              : # URL
   email            : "ailing.jin@uconn.edu" 
 
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=f4kp4hwAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  #orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  #github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
