@@ -26,11 +26,11 @@ author:
   avatar           : "Image_20250811135423_1256.jpg"
   name             : "Ailing Jin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : ""
+  location         : "Storrs, CT"
+  employer         : "Department of Geography, Sustainability, Community, and Urban Studies, University of Connecticut"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ailing.jin@uconn.edu" 
 
   # Academic websites
   academia         : # URL
