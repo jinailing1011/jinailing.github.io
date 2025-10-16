@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geography, University of Connecticut, 2021-2026 (expected)
+* M.S. in Health Promotion Sciences, University of Connecticut, 2021-2023
+* M.A. in Geography, University of Connecticut, 2018-2021
+* B.S. in Ecology, Minzu University of China, 2014-2018
 
 Work experience
 ======
