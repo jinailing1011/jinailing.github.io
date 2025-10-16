@@ -18,7 +18,7 @@ Education
 
 Research interests
 ======
-Environmental health; Indoor/Outdoor airpollution; GIS; Expsoure/Health risk assessment
+Environmental health; Indoor/Outdoor air pollution; GIS; Expsoure/Health risk assessment
 
 Work experience
 ======
