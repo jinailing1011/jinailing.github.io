@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-*University of Connecticut
+University of Connecticut
 * Fall 2025: UNIV 1800. First Year Experience University Learning Skills instructor
     
 * Fall 2022-Fall 2025: Teaching Assistant
@@ -26,6 +26,4 @@ Work experience
 * Fall 2021-Spring 2023: Research Assistant
 
 
-  
 
-* Currently signed in to 43 different slack teams
