@@ -1,6 +1,6 @@
 ---
 title: "Incorporating Large-Scale Human-Mobility Data to Assess Environmental Exposure"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='selective.png'>"
 collection:
 ---
 
