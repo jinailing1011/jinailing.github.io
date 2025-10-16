@@ -1,7 +1,15 @@
 ---
 title: "Incorporating Large-Scale Human-Mobility Data to Assess Environmental Exposure"
-excerpt: " Traditional place-based measures of the community food environment may misrepresent individuals’ true exposure and its relation to dietary outcomes. To address this, I leveraged large-scale GPS-based restaurant-visit data from Greater Hartford, Connecticut, to map visit patterns and examine neighborhood socioeconomic influences. The findings highlight the role of community-level factors in shaping food patronage and underscore the importance of incorporating human-mobility data into exposure assessments. These insights provide guidance for policymakers to identify activity-based food deserts, optimize zoning, and reduce diet-related health disparities.<br/><img src='/images/500x300.png'>"
+excerpt: "Restaurant-visit patterns in the Greater Hartford region. (a) shows overall restaurant
+visit patterns in the Greater Hartford region, and (b) zooms into East Hartford, West Hartford, and
+ Hartford. Each line connects a restaurant to a census tract. Line thickness indicates the number of
+ Figure 2. Restaurant-visit patterns in the Greater Hartford region. (a) shows overall restaurant-visit 
+patterns in the Greater Hartford region, and (b) zooms into East Hartford, West Hartford, and Hart
+ford. Each line connects a restaurant to a census tract. Line thickness indicates the number of visits; 
+line color indicates the percentile-ranking of SVI for the census tract where the restaurant is located 
+(darker means more socially vulnerable). Only relations with more than 41 visits (top 25% percen
+tile) are included in the figure. <br/><img src='/images/500x300.png'>"
 collection:
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Traditional place-based measures of the community food environment may misrepresent individuals’ true exposure and its relation to dietary outcomes. To address this, I leveraged large-scale GPS-based restaurant-visit data from Greater Hartford, Connecticut, to map visit patterns and examine neighborhood socioeconomic influences. The findings highlight the role of community-level factors in shaping food patronage and underscore the importance of incorporating human-mobility data into exposure assessments. These insights provide guidance for policymakers to identify activity-based food deserts, optimize zoning, and reduce diet-related health disparities.
