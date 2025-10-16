@@ -10,10 +10,10 @@
 main:
   - title: "CV"
     url: /cv/
-    
+  
   - title: "Research"
-    url: /year-archive/  
-
+    url: /portfolio/  
+  
   - title: "Teaching"
     url: /teaching/  
     
@@ -24,7 +24,7 @@ main:
     url: /talks/  
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /year-archive/  
         
     
   # - title: "CV"
